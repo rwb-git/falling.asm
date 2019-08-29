@@ -1,1 +1,1 @@
-This code is for a string of 36 WS2812B LEDs (easily changed in line 506). The code is a bit sloppy but it works.
+This code is for a string of 36 WS2812B LEDs (easily changed in line 506). The code is a bit sloppy but it works. A Cpp version is in falling_arduino, which has files set up for Platformio, but are easily converted for Arduino IDE per instructions in the README for that code.
